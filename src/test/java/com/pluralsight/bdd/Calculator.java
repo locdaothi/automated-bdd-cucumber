@@ -4,6 +4,7 @@ package com.pluralsight.bdd;
 // Test commit 4th
 // Test commit 5th
 // hmmmm
+// this is commit 7th
 public class Calculator {
     public Integer add(Integer a, Integer b) {
         return a + b;
